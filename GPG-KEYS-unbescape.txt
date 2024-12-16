@@ -1,0 +1,15 @@
+Artifacts released by Unbescape are signed with one of these keys:
+
+--------
+User ID:     releases@unbescape.org
+Fingerprint: 23B07192CAD594725022F55719A1F71DE8988DE1
+--------
+User ID:     dfernandez@users.sourceforge.net
+Fingerprint: 839323A4780D5BF9A6978970152888E10EF880B3
+--------
+
+These keys can be obtained from well-known key servers like:
+
+keyserver.ubuntu.com
+keys.openpgp.org
+pgp.mit.edu
